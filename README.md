@@ -52,7 +52,7 @@ Prerequisites:
 
 ```bash
 git clone https://github.com/schijioke-uche/ibm-swh-image-onboard-manager.git
-cd ibm-swh-image-manager && cp settings.sh.d settings.sh
+cd ibm-swh-image-onboard-manager && cp settings.sh.d settings.sh
 ```
 
 Fill out the variable source file by entering edit mode:
