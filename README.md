@@ -51,7 +51,7 @@ Prerequisites:
 2) Clone and enter the directory:
 
 ```bash
-git clone https://github.com/schijioke-uche/ibm-swh-image-manager.git
+git clone https://github.com/schijioke-uche/ibm-swh-image-onboard-manager.git
 cd ibm-swh-image-manager && cp settings.sh.d settings.sh
 ```
 
