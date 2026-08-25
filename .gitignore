@@ -1,0 +1,16 @@
+# +----------------------------------------------------------------------------+
+# | @Author : Dr. Jeffrey Chijioke-Uche                                        |
+# | @Purpose: IBM Software Hub Enterprise Image Onboarding Solution            |
+# | @License: IBM                                                              |
+# +----------------------------------------------------------------------------+
+# Sensitive files
+.env
+.env.local  
+swh_vars.sh
+
+# Logs
+logs/
+cpd-cli-workspace/logs/
+settings.sh
+settings.log
+*.Identifier
